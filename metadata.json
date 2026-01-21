@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Walkie-Talkie Pro",
+  "description": "A high-fidelity walkie-talkie simulation using Gemini 2.5 Flash Native Audio. Choose a frequency and talk to simulated field units using press-to-talk (PTT) technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
